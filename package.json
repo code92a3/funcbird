@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/code92a3/funcbird/issues"
   },
-  "homepage": "https://github.com/code92a3/funcbird#readme"
+  "homepage": "https://github.com/code92a3/funcbird#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0"
+  }
 }
